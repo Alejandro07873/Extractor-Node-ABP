@@ -20,4 +20,4 @@
 
 > I hope it helps you and I hope for your support any problem let me know
 
-```For everyone who reads it marked as a Trojan virus, don't worry, it's not a virus. It's just Windows themes that are mistaking it for a virus, but the app itself is virus-free. That said, feel free to use it or not at your own risk. All I want is to contribute something that makes creating mods easier. I'd be happy if you use it; my intention is not to harm anyone```
+### **For everyone who reads it marked as a Trojan virus, don't worry, it's not a virus. It's just Windows themes that are mistaking it for a virus, but the app itself is virus-free. That said, feel free to use it or not at your own risk. All I want is to contribute something that makes creating mods easier. I'd be happy if you use it; my intention is not to harm anyone**
